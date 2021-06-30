@@ -1,0 +1,10 @@
+.container-div {
+  background-color: #c5d2ec;
+  width: 82%;
+  padding: 24px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+}

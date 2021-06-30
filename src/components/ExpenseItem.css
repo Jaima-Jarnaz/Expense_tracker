@@ -1,0 +1,43 @@
+.middle-div {
+  border: 1px solid rgb(68, 65, 48);
+  background: linear-gradient(to bottom, #ffffff 0%, #ccccff 66%);
+  border-radius: 12px;
+  box-shadow: 5px 10px #dedddd33;
+  margin: 12px;
+}
+
+.inner-div {
+  display: inline-block;
+}
+.div-amount {
+  display: inline-block;
+  margin: 3px;
+  border: 2px solid;
+  padding: 10px 30px;
+  border-radius: 12px;
+  background-color: indigo;
+  font-size: 22px;
+  font-weight: 500;
+}
+.h2-title {
+  display: inline;
+  margin: 30px;
+  margin-right: 108px;
+  font-size: 21px;
+}
+.clickButton {
+  margin: 3px;
+  border: 2px solid;
+  padding: 10px 30px;
+  border-radius: 12px;
+  background-color: #ccccff;
+  font-size: 22px;
+  border-color: darkmagenta;
+}
+.input-onchange {
+  border: 1px solid #bb13f2;
+  padding: 16px;
+  margin: 5px;
+  border-radius: 12px;
+  font-size: 17px;
+}

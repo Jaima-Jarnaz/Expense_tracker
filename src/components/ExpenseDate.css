@@ -1,0 +1,20 @@
+.date-div {
+  display: inline-block;
+  border-radius: 12px;
+  border: 3px solid white;
+  padding: 10px;
+  margin: 10px;
+  background-color: indigo;
+}
+.year {
+  font-size: 20px;
+  font-weight: 400;
+}
+.month {
+  font-size: 18px;
+  font-weight: 400;
+}
+.day {
+  font-size: 23px;
+  font-weight: 700;
+}
